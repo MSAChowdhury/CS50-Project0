@@ -24,3 +24,16 @@
 .jumbotron h3{
     text-align: center;
 } 
+@media only screen and (max-width: 600px) {
+    #header .card-img-overlay{
+        top: 6%;
+    }
+    #header .card-img-overlay h5{
+        font-size: 14px;
+    }
+    #header .card-img-overlay a{
+        font-size: 12px;
+    }
+
+    
+  }
