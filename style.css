@@ -1,0 +1,26 @@
+#header img{
+    width: 100%;
+}
+#header .card-img-overlay{
+    top: 12%;
+    text-align: center;
+}
+
+#header h6{
+    position: absolute;
+    top: 25%;
+    font-size: 1rem;
+    left: 4%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#header .jumbotron{
+    text-align: center;
+}
+#footer h6
+{
+    text-align: center;
+
+}
+.jumbotron h3{
+    text-align: center;
+} 
